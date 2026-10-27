@@ -1,0 +1,8 @@
+{
+  "name": "EduMind AI - Liquid Glass",
+  "description": "Premium AI Study Planner with liquid glassmorphism, adaptive dark mode, and multi-role enterprise security.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
